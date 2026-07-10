@@ -19,7 +19,7 @@
 
 👋 About Me
 
-I'm **Vimal Kumar**, an MCA student passionate about creating modern, scalable web applications.
+I'm **Vimal Kumar S**, an MCA student passionate about creating modern, scalable web applications.
 
 My learning approach is simple:
 
@@ -31,7 +31,7 @@ I enjoy solving problems, exploring new technologies, and continuously improving
 
 ---
 
- 💻 Tech Stack
+ 💻 Tech StacK
 
 <div align="center">
 
